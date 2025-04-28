@@ -78,11 +78,11 @@ for i in range(0,9):
 ```
 ## Output
 
-### Original Image
+## Original Image
 ![Screenshot 2025-04-28 220415](https://github.com/user-attachments/assets/03b61205-4d8e-463c-84ef-eddf024c23d3)
 
 
-### Global Thresholding
+## Global Thresholding
 
 ![Screenshot 2025-04-28 220614](https://github.com/user-attachments/assets/b3c70d98-2509-4fb9-874d-91ac1c3f7949)
 ![Screenshot 2025-04-28 220627](https://github.com/user-attachments/assets/e154151b-f0cf-47ca-a0e8-6e6a51db984c)
@@ -92,11 +92,11 @@ for i in range(0,9):
 
 
 
-### Adaptive Thresholding
+## Adaptive Thresholding
 ![Screenshot 2025-04-28 220716](https://github.com/user-attachments/assets/89a4d25b-b6f7-481d-836b-f09aae4fe2e6)
 ![Screenshot 2025-04-28 220727](https://github.com/user-attachments/assets/173614fa-2cf5-4eb5-84de-1cde1ccde298)
 
-### Optimum Global Thesholding using Otsu's Method
+## Optimum Global Thesholding using Otsu's Method
 
 ![Screenshot 2025-04-28 220704](https://github.com/user-attachments/assets/ffc153bc-fa39-4cf3-850f-7564289fd771)
 
